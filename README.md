@@ -10,6 +10,9 @@ The application uses Natural Language Processing (NLP) techniques to convert tex
 
 Users can enter a sentence through an interactive Streamlit web application and instantly receive a predicted emotion.
 
+## live site link:
+ check :  https://emotioniq-nlp-based-emotion-classification-usmanhaider.streamlit.app/
+ 
 ## ✨ Features
 
 - Text-based emotion detection
